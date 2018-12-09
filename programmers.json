@@ -1,0 +1,34 @@
+
+[{  
+    "firstName": "jeff",
+    "lastName": "burt",
+    "homeAddress": "1234 Mayberry Lane",
+    "SID": "001",
+    "goodSlave": "true",
+    "beatingsToDate": 127,
+    "family": {
+        "wife": {},
+        "husband": {
+            "firstName": "Torfelvin",
+            "lastName": "burt",
+            "homeAddress": "1234 Mayberry Lane",
+            "SID": "NS",
+            "goodSlave": "NS",
+            "beatingsToDate": -1
+        },
+       "children": [
+           {
+            "Designation": "Jeff Jr."
+           },
+           {
+       		"Designation": "Turtle Person"
+           },
+           {
+        	"Designation": "REDACTED"
+           }
+        ]
+    }
+}]
+
+
+
